@@ -1,7 +1,7 @@
 # hello-world
 ### Hello-World! I'm GW and welcome to my "GitWub".
 
-### About me: 
+### -About me: 
 > -Name: 신건우(SHIN GEONWOO)
 >
 > -E-mail: tonyw2@khu.ac.kr
@@ -11,14 +11,14 @@
 > -Address: 경기도 용인시 기흥구 덕영대로 1732 경희대학교
 
 
-### Research Experience:
+### -Research Experience:
 <pre>
 <code>
 - Not yet!
 </code>
 </pre>
 
-### Education: 
+### -Education: 
 ```
 - 2020 ~ : KyungHee University, Computure Science & Engineering, Ph.D
 ```
