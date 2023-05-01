@@ -1,7 +1,9 @@
 # hello-world
 ### Hello-World! I'm GW and welcome to my "GitWub".
 
-### About me: 
+### About me: ㅇ
+> -Name: 신건우(SHIN GEONWOO)
+>
 > -E-mail: tonyw2@khu.ac.kr
 > 
 > -Tel: 010-XXXX-XXXX
