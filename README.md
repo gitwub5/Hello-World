@@ -20,7 +20,7 @@
 
 ### Education: 
 ```
-- 2020~: KyungHee University, Computure Science & Engineering, Ph.D
+- 2020 ~ : KyungHee University, Computure Science & Engineering, Ph.D
 ```
 
 <img src="https://user-images.githubusercontent.com/132264450/235445041-111c8853-67e0-4c25-9c45-9239b7b829c4.jpg" width="297px" height="420px" title="me.jpg" alt="me"></img><br/>
